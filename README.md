@@ -9,9 +9,9 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaravananK03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanan-k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saravanan-k-2381a7273)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saravanank03062002@gmail.com)
-[![SkillRack](https://img.shields.io/badge/SkillRack-FF6B00?style=for-the-badge&logo=codeforces&logoColor=white)](https://skillrack.com/SaravananK)
+[![SkillRack](https://img.shields.io/badge/SkillRack-FF6B00?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=308798&key=304aa310628f9993a8a481460791c72d38424118)
 
 <img src="https://komarev.com/ghpvc/?username=SaravananK03&label=PROFILE%20VIEWS&color=bf91f3&style=for-the-badge" />
 
@@ -120,25 +120,15 @@ console.log(saravanan.motto());
 ## 📊&nbsp; GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaravananK03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaravananK03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=SaravananK03&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaravananK03&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/SaravananK03/SaravananK03/main/metrics.svg" width="100%"/>
 
-</div>
+<sub>Stats, activity, top languages, and achievements are all self-hosted here — generated daily by a GitHub Action instead of a third-party server, so this never breaks or shows N/A.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-
-## 🏆&nbsp; Trophy Wall
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SaravananK03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
